@@ -1,0 +1,22 @@
+
+.sort-icon {
+    font-size: 9px;
+    margin-left: 5px;
+}
+
+th {
+	cursor:pointer;
+}
+
+.modal
+{
+    overflow: hidden;
+}
+.modal-content.ui-resizable {
+  
+}
+
+.modal-backdrop
+{
+    background-color: transparent !important;
+}
